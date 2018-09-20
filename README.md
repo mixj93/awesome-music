@@ -1,4 +1,4 @@
-# Awesome Music 🕶
+# 🕶Awesome Music 🎶
 
 ## Music Theoty
 
