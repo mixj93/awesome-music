@@ -9,4 +9,4 @@
 
 - [GarageBand (macOS, iOS)](https://www.apple.com/mac/garageband/)
 - [Logic Pro X (macOS)](https://www.apple.com/logic-pro/)
-- [Ableton Live](https://www.ableton.com/)
+- [Ableton Live (Windows, macOS)](https://www.ableton.com/)
